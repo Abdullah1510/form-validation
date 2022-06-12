@@ -1,0 +1,33 @@
+body{
+   background-color: blue; 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 400px;
+}
+
+
+#container{
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+}
+h2{
+    margin: 0px 0px 10px 10px;
+}
+input{
+    width: 200px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+input[type="submit"]{
+    width: 222px;
+    background-color: blue;
+    border: 0px;
+    color: black;
+}
+.error{
+    margin: 0px;
+    color: red;
+    text-align: left;
+}
